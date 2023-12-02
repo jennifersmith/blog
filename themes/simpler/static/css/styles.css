@@ -99,14 +99,17 @@ a:hover {
 /* Improvements to inline code blocks */
 
 code {
-	font-size: 98%;
-}
+	font-size: 70%;
 
+}
+pre:has(code){
+	margin: auto 4em;
+}
 :not(pre) > code {
 	/* inline code elements */
 	background-color: rgba(25, 25, 25, 0.05);
 	border-radius: 5px;
-	font-size: 80%;
+	font-size: 70%;
 	padding-top: 0.2em;
 	padding-bottom: 0.2em;
 	padding-left: 0.4em;
