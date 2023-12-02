@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://jennifersmith.github.io/blog'
 languageCode = 'en-au'
-title = 'My Blog'
+title = 'Fly Log'
 theme = 'simpler'
 [params]
-FooterText = '[no-js-hugo-theme](https://github.com/stevenengler/no-js-hugo-theme/tree/master)'
+FooterText = 'customised copy of [no-js-hugo-theme](https://github.com/stevenengler/no-js-hugo-theme/tree/master)'
