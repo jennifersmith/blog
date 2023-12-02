@@ -1,6 +1,6 @@
 +++
 title = 'Bluetooth Audio: The story begins'
-date = 2023-12-01T14:44:54+11:00
+date = 2023-12-02
 +++
 
 We've recently been setting up multi-room audio at home which probably is a whole post of its own if I get round to it. Anyway, as part of this we had need to engage the services of a reliable but relatively ancient UE bluetooth speaker.
